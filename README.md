@@ -5,7 +5,7 @@
     - State-of-art Reinforcement Learning algorithms and implementations.
     - Other Artificial Intelligence related technologies, such as Computer Vision, or Heuristics.
     - Motion Planning, for now in wheeled robots, and soon in Legged robots.
-- 🌱 I’m currently learning about Data Structures & Algorithms, apart from various tools related to some of the previously mentioned topics, such as PyTorch and OpenCV. 
+- 🌱 I’m currently learning about Data Structures & Algorithms.
 - 💞️ I’m looking to collaborate on any project related to those topics! Always eager to learn more and more, specially by collaborating in real projects.
 - 📫 How to reach me:
     - e-mail: pablo.arandarod@gmail.com
